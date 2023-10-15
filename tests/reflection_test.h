@@ -1,8 +1,9 @@
 #ifndef TESTS_REFLECTION_TEST_H
 #define TESTS_REFLECTION_TEST_H
 
-#include <stdint.h>
+#include <cstdint>
 #include <string>
+using namespace std;
 
 namespace flatbuffers {
 namespace tests {
